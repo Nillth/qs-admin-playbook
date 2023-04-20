@@ -4,7 +4,7 @@ plugins:
 relative_links:
   enabled: true
 logo: "/assets/images/AdminPlaybook3.png"
-url: "https://www.nillth.net/qs-admin-playbook"
+url: "https://www.nillth.net"
 markdown: kramdown
 highlighter: rouge
 kramdown:
