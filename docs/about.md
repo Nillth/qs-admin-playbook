@@ -8,7 +8,8 @@ permalink: docs/about
 # About
 {: .no_toc }
 
-The _Qlik Sense Admin Playbook_ is designed and intended to be a repository of best practices for a Qlik Administrator to reference. It is maintained by the Americas Enterprise Architecture team at Qlik. The Playbook covers many activities and exercises that help to maintain a high-performing and easily manageable site.
+The _Qlik Sense Customer Success_ is designed and intended to be a repository of useful resources for Qlik products. It is maintained by the Customer Success team at Qlik.
+The template for this site was created by the Americas Enterprise Architecture team at Qlik.
 
 {::options parse_block_html="true" /}
 <div class="card">
@@ -18,7 +19,7 @@ The _Qlik Sense Admin Playbook_ is designed and intended to be a repository of b
 <div class="card-body">
 <p>The goal of this repository is to outline best practices and reference example work-flows or tooling which can be used. It is not intended that the actions be completed verbatim, as they will need to be interpreted/customized as per the needs of each individual organization. Do not go through any exercise in the Playbook blindly--ensure that each has been thorougly reviewed and tested before they are attempted, as some of the exercises physically remove assets and alter site configuration.
 <br><br>
-**The Admin Playbook is not supported by Qlik**, but rather is maintained by Qlik employees.
+**The Customer Success is not supported by Qlik**, but rather is maintained by Qlik employees.
 </p>
 </div>
 </div>
@@ -44,16 +45,6 @@ The _Qlik Sense Admin Playbook_ is designed and intended to be a repository of b
 </div>
 </div>
 
-
-## Playbook Lifecycle
-
-The cadence of the activities shown on the Playbook itself are common, yet they will not fit every organization, or might fit an organization for a period, and then shift. It is encouraged to work through the Playbook at the recommended starting cadence and adapt the Playbook of each organization's deployment. Some activities may be more or less useful / relevant for an organization, so review the outcomes and make appropriate adjustments. There is no "one size fits all" solution, as every organization has different needs and faces challenges that evolve over time.
-
-### Customization
-
-Give that the Playbook doesn't currently support customization via the web interface, a Qlik Application has been created that can load in a csv of the Playbook's itinerary, and can be customized within Qlik--linking live back to the site.
-
-Find the Playbook qvf and associated xlsx [here](https://github.com/eapowertools/qs-admin-playbook/tree/master/attachments/custom_app).
 
 ## Icons Used Throughout the Site
 
