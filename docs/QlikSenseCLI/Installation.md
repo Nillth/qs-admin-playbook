@@ -21,3 +21,19 @@ parent: QlikSenseCLI
 -------------------------
 
 ## Installation
+
+
+
+Content
+
+<script src="https://github.com/QlikProfessionalServices/QlikNPrinting-CLI/blob/master/QlikNPrinting-CLI.psm1"></script>
+
+Content
+Content
+
+<script src="https://github.com/QlikProfessionalServices/QlikSenseCLI/blob/main/ReadMe.md"></script>
+
+Content
+
+
+
