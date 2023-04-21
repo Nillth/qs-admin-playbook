@@ -2,17 +2,17 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="1930mm"
-   height="182mm"
-   viewBox="0 0 1930 182"
+   width="2000mm"
+   height="200mm"
+   viewBox="0 0 2000 200"
    version="1.1"
    id="svg5"
    xml:space="preserve"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="Qlik-CustomerSuccess.svg"
    inkscape:export-filename="Qlik-CustomerSuccess.png"
-   inkscape:export-xdpi="96.181328"
-   inkscape:export-ydpi="96.181328"
+   inkscape:export-xdpi="25.4"
+   inkscape:export-ydpi="25.4"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,7 +23,7 @@
      borderopacity="1.0"
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
@@ -42,7 +42,7 @@
      id="layer1"
      transform="translate(-0.1733427,-102.88553)"><g
        id="g40"
-       transform="matrix(1.2656899,0,0,1.2656899,-28.937525,85.027803)">
+       transform="matrix(1.2656899,0,0,1.2656899,-28.937525,94.027803)">
 	<path
    class="st0"
    d="m 274.6,89.7 c -1.9,-3.1 0.6,-5.7 0.6,-5.7 l 22,-22.7 c 2.5,-2.6 -1.1,-2.6 -1.1,-2.6 h -20.5 c -3.6,0 -6.1,2.6 -6.1,2.6 l -20.3,21.6 c -2.5,2.6 -2.5,-1 -2.5,-1 V 34.7 c 0,-3.6 -3.6,-3.6 -3.6,-3.6 h -15.5 c -3.5,0 -3.5,3.5 -3.5,3.5 v 98.7 c 0,3.6 3.6,3.6 3.6,3.6 h 15.4 c 3.5,0 3.5,-3.5 3.5,-3.5 v -17.3 c 0,-3.6 2.6,-6.1 2.6,-6.1 l 7.3,-6.8 18.2,30.6 c 1.8,3.1 5.4,3.1 5.4,3.1 h 19.5 c 3.6,0 1.7,-3.1 1.7,-3.1 z m -66.7,43.6 V 62.2 c 0,-3.6 -3.6,-3.6 -3.6,-3.6 h -15.6 c -3.6,0 -3.6,3.6 -3.6,3.6 v 71.1 c 0,3.6 3.6,3.6 3.6,3.6 h 15.6 c 3.6,0 3.6,-3.6 3.6,-3.6 z M 207.3,44.7 V 34.5 c 0,0 0,-3.5 -3.5,-3.5 h -15.2 c 0,0 -3.5,0 -3.5,3.5 v 10.2 c 0,0 0,3.5 3.5,3.5 h 15.3 c 0,0 3.4,0 3.4,-3.5 z m -38.9,88.6 V 34.8 c 0,-3.6 -3.6,-3.6 -3.6,-3.6 h -15.9 c -3.6,0 -3.6,3.6 -3.6,3.6 v 98.5 c 0,3.6 3.6,3.6 3.6,3.6 h 15.9 c 3.6,0 3.6,-3.6 3.6,-3.6 z m -35.7,-4.2 c 0,0 2,-2.3 -0.3,-4.3 l -12.7,-11.1 c 5.7,-8.5 9.1,-18.6 9.1,-29.6 0,-29.2 -23.7,-52.9 -52.9,-52.9 -29.2,0 -52.9,23.7 -52.9,52.9 0,29.2 23.7,52.9 52.9,52.9 10.7,0 20.6,-3.2 29,-8.7 l 14,12.1 c 0,0 2.3,2 4.3,-0.3 z M 106.4,84 c 0,16.9 -13.7,30.6 -30.6,30.6 -16.9,0 -30.6,-13.7 -30.6,-30.6 0,-16.9 13.7,-30.6 30.6,-30.6 16.9,0.1 30.6,13.7 30.6,30.6 z"
@@ -65,20 +65,20 @@
 </g><text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:181.488px;line-height:1.75;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';letter-spacing:0px;word-spacing:0px;fill:#54565b;fill-opacity:1;stroke:none;stroke-width:1.89051"
-       x="570.46497"
-       y="253.41359"
+       x="640.46497"
+       y="262.4136"
        id="text266"><tspan
          sodipodi:role="line"
          id="tspan264"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:181.488px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#54565b;stroke-width:1.89051"
-         x="570.46497"
-         y="253.41359">Customer Success</tspan></text><rect
-       style="fill:#54565b;stroke-width:0.475243"
+         x="640.46497"
+         y="262.4136">Customer Success</tspan></text><rect
+       style="fill:#54565b;stroke-width:0.771793"
        id="rect1004"
-       width="3.0333335"
+       width="8"
        height="182"
-       x="561.34064"
-       y="102.88553" /></g><style
+       x="593.8573"
+       y="111.88553" /></g><style
      type="text/css"
      id="style28">
 	.st0{fill:#54565B;}
