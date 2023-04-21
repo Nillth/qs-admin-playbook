@@ -3,7 +3,7 @@ plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
-logo: "/assets/images/AdminPlaybook3.png"
+logo: "/assets/images/Qlik-CustomerSuccess.svg"
 url: "https://www.nillth.net"
 markdown: kramdown
 highlighter: rouge
