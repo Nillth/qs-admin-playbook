@@ -22,7 +22,7 @@ authors:
 {:toc}
 
 -------------------------
-## {{ page.title }}
+
 ## Installation
 
 
