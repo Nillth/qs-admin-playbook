@@ -3,6 +3,9 @@ layout: default
 title: Installation
 nav_order: 1
 parent: QlikSenseCLI
+authors:
+  - Marc Collins
+  - Testing
 ---
 
 # QlikSenseCLI
