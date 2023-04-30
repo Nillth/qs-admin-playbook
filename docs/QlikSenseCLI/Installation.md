@@ -19,7 +19,7 @@ parent: QlikSenseCLI
 {:toc}
 
 -------------------------
-
+## {{ page.title }}
 ## Installation
 
 
